@@ -20,7 +20,6 @@
     height: calc(100vh - 80px);
     margin-left: 40px;
     margin-right: 40px;
-    margin-bottom: 15px;
 }
 
 .playbar{
@@ -56,12 +55,22 @@
     position: relative;
 }
 
-.spv{
+.top-right{
     position: absolute;
     top: 0;
     right: 0;
     color: white;
-    padding: 2px;
+    margin: 10px;
+}
+
+.speaker{
+    padding: 4px;
+    background-color: grey;
+    border-radius: 10%;
+}
+
+.full-screen{
+    padding: 4px;
     background-color: grey;
     border-radius: 10%;
 }
