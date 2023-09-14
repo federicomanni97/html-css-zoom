@@ -43,6 +43,14 @@
     padding-top: 20px;
 }
 
+.pincopallo{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 3px;
+    background-color: rgb(3, 3, 3, 0.3);
+}
+
 .item img{
     width: 100%;
     display: block;
